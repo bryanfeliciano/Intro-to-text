@@ -1,0 +1,9 @@
+ViewPatterns—Allows for more-sophisticated pattern matching.
+
+TemplateHaskell—Provides tools for Haskell metaprogramming.
+
+DuplicateRecordFields—Solves the annoying problem from lesson 16, where using
+the same field name for different types using record syntax causes a conflict.
+
+NoImplicitPrelude—As mentioned, some Haskell programmers prefer to use a
+custom Prelude. This language extension allows you to not use the default Prelude.
